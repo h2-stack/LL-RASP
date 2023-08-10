@@ -1,8 +1,8 @@
 # Low-level RASP: Protecting Applications Implemented in High-level Programming Languages
 
-这两天HW打的火热，忙里偷闲 分享一个我在BHUSA2023中关于应用安全防御和企业安全的议题。这是一种能在原生进程空间获取高级编程语言上下文的技术，我以近几年比较热门的RASP技术为参考，设计并实现了新的Low-level RASP技术，权当抛砖引玉，期望能启发出更多的可能，也期待和大家一起沟通交流。
+This is a technology I shared at BHUSA 2023 that can obtain high-level programming language(HPL) context in the native process space. Taking the RASP technology as a reference, I  developed a new technology called  Low-level RASP. I hope to inspire more possibilities and look forward to communicating with you.
 
-演示文档访问 https://i.blackhat.com/BH-US-23/Presentations/US-23-LI-Low-Level-RASP.pdf 下载。由于时间仓促，keynote很多细节没来得及体现，所以将原稿分享出来以作补充。以下原稿：
+Visit https://i.blackhat.com/BH-US-23/Presentations/US-23-LI-Low-Level-RASP.pdf to download the presentation slides. Many non-core details are not reflected in the keynote due to time reasons, so I will also share the original manuscript here:
 
 Hi,
 
