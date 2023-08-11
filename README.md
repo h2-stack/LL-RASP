@@ -1,6 +1,6 @@
 # Low-level RASP: Protecting Applications Implemented in High-level Programming Languages
 
-This is a technology I shared at BHUSA 2023 that can obtain high-level programming language(HPL) context in the native process space. Taking the RASP technology as a reference, I  developed a new technology called  Low-level RASP. I hope to inspire more possibilities and look forward to communicating with you.
+**This is a technology I shared at BHUSA 2023 for getting a high-level programming language context(eg HPL-layer stack trace) in the native process space. To inspire more possibilities, I used this technology to develop a new defense technology called low-level RASP as a real-world demonstration**. Hope to inspire more possibilities such as LL-AST, LL-Fuzz, ... And I'm look forward to communicating with you.
 
 You can download the presentation slides by visiting https://i.blackhat.com/BH-US-23/Presentations/US-23-LI-Low-Level-RASP.pdf,Many non-core details are not reflected in the keynote due to time reasons, so I will also share the original manuscript here:
 
