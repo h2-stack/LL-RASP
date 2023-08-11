@@ -1,6 +1,6 @@
 # Low-level RASP: Protecting Applications Implemented in High-level Programming Languages
 
-**This is a technology I shared at Black Hat USA 2023(BHUSA2023) that can get the High-level Programming Language context (aka: HPL layer stack trace) in native space. To inspire more possibilities, I developed a new defense technique called low-level RASP as a real-world demonstration**. I hope this technology can inspire more possibilities, such as LL-AST, LL-Fuzz... and look forward to communicating with you.
+**This is a technology I shared at BHUSA 2023 that can get the High-level Programming Language context (aka: HPL-layer stack trace) in native space. To inspire more possibilities, I developed a new defense technique called low-level RASP as a real-world demonstration**. I hope this technology can inspire more possibilities, such as LL-AST, LL-Fuzz... and look forward to communicating with you.
 
 `generate_env.sh` is used to prepare the compilation environment. There are some sample codes of lightweight extensions in the src directory for reference, including Python, Ruby, PHP and Node.js.
 
